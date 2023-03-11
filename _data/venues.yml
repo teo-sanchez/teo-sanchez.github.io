@@ -1,6 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"IUI":
+  url: https://iui.acm.org/
+  color: "#FD9341"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CSCW":
+  url: https://cscw.acm.org/
+  color: "#CD3A3C"
+
+"UIST":
+  url: https://uist.acm.org/
+  color: "#79675F"
+
+"Frontiers":
+  url: https://www.frontiersin.org/
+  color: "#06346B"

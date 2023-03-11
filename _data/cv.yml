@@ -2,96 +2,220 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Téo Sanchez
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 11th of April 1993
+    - name: Place of Birth
+      value: Marseille, France
+    - name: Email address
+      value: teo [dot] eoures [at] gmail [dot] com
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: 🔍 Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Interative Machine Learning
+      description: "How to improves people's agency on machine learning systems?"
+    - title: Human-centered AI
+      description: How human behaves and reasons when interacting with AI systems?
+    - title: Collaborative 
 
-- title: Other Interests
+
+- title: 🥼 Research experience
+  type: time_table
+  contents:
+    - title: Invited researcher
+      subject: "Examining the Text-to-Image Community of Practice: Why and How do People Prompt Generative AIs?"
+      affiliations: 
+        - company: Selas Studio, Paris, France
+      year: 2022-2023
+      exact_dates: #format YYYY-MM-DD
+        - start: 2022-09-19
+        - end: 2023-01-10
+        
+    - title: Doctoral student
+      subject: Interactive Machine Teaching for and with novices
+      supervisors: 
+        - Baptiste Caramiaux
+        - Wendy Mackay
+      affiliations: 
+        - institutions: Inria, Universiré Paris-Saclay
+        - lab: Interdisciplinary Laboratory of Digital Sciences (LISN)
+        - team: ExSitu Team
+      year: 2018-2022
+
+      exact_dates: #format YYYY-MM-DD
+        - start: 2022-09-01
+        - end: 2022-08-31
+
+    - title: Member of the ELEMENT project from the National Research Agency (ANR)
+      subject: Enabling Learnability in Embodied Movement Interaction
+      affiliations:
+        - lab: Institute for Research and Coordination in Acoustics/Music (IRCAM), LISN
+      year: 2018-2022
+      exact_dates: #format YYYY-MM-DD
+        - start: 2022-09-01
+        - end: 2022-08-31
+
+    - title: Master's thesis
+      subject: Active Learning for supporting movement-based creative interaction
+      institution: Université Paris-Saclay, LISN, ExSitu
+      year: 2018
+      supervisors: 
+        - Baptiste Caramiaux
+      exact_dates: #format YYYY-MM-DD
+        - start: 2018-02-19
+        - end: 2018-07-27
+  
+    - title: Research intern in Jean Le Rond d'Alembert Institute
+      subject: Study of the attack and release of sung notes for vocal synthesis
+      institution: Sorbonne Université
+      year: 2017
+      supervisors: 
+        - Christophe D'Alessandro
+        - Boris Doval
+      exact_dates: #format YYYY-MM-DD
+        - start: 2017-06-01
+        - end: 2017-07-31
+    
+    - title: Research intern in Jean Le Rond d'Alembert Institute
+      subject: 
+      institution: Sorbonne Université
+      year: 2016
+      supervisors:
+        - Benoît Fabre
+      exact_dates: #format YYYY-MM-DD
+        - start: 2016-05-01
+        - end: 2016-07-31
+
+    - title: Research intern in the Computational Biology and Drug Design Group
+      subject: Simulating Tryptophan Fluorescence in protein using a QM/MMpol approach
+      institution: University of Barcelona, Spain
+      year: 2015
+      supervisors:
+        - Carles Curutchet
+      exact_dates: #format YYYY-MM-DD
+        - start: 2015-02-01
+        - end: 2015-07-31
+
+
+- title: 🎓 Education
+  type: time_table
+  contents:
+    - title: PhD in computer science
+      subject: Interactive Machine Teaching for and with novices
+      institution: Université Paris Saclay and Inria, Paris, France
+      year: 2018 - 2022
+      description: 
+        - Supervised by Baptiste Caramiaux and Wendy Mackay
+        - Defended on the 20th of June 2022
+    - title: Master's degree ATIAM
+      subject: Acoustic, Signal Processing, and Computer Science applied to Music
+      institution: Sorbonne Université, Telecom ParisTech, and IRCAM Centre Pompidou, Paris, France
+      year: 2016 - 2018
+
+    - title: École Normale Supérieure's diploma
+      subject: Major in computer science, minor in Chemistry
+      institution: École Normale Supérieure, Paris, France
+      year: 2013 - 2018
+    - title: Bachelor of Science
+      subject: Chemistry
+      institution: Sorbonne Université, Paris, France
+      year: 2013 - 2014
+    - title: Preparatory classes for the "Grandes Écoles"
+      subject: Scientific section
+      institution: Lycée Thiers, Marseille, France
+      year: 2011 - 2013
+
+- title: 🏆 Honors and Awards
+  type: time_table
+  contents:
+    - title: Best thesis award
+      subject: "Interactive Machine Teaching for and with novices"
+      institution: Francophone Association of Human-Computer Interaction (AFIHM)
+      year: 2023
+    - title: "Best paper award"
+      subject: "Deep Learning Uncertainty in Machine Teaching"
+      institution: International Conference on Intelligent User Interfaces
+      year: 2023
+
+- title: 💻 Open source software
+  type: time_table
+  contents:
+    - title: Contributor to the Marcelle toolkit
+      year: 2021
+      subject: Toolkit for composing interactive machine learning workflows and interfaces
+    - title: "ML model: en_ner_prompting"
+      year: 2023
+      subject: A machine learning model for recognizing entities in text-to-image prompts
+
+- title: 📣 Invited talks and conferences
+  type: time_table
+  contents:
+    - title: "Invited talk"
+      subject: "Interactive Machine Teaching for and with novices"
+      institution: "International Conference on Intelligent User Interfaces"
+      year: 2023
+    - title: "Invited talk"
+      subject: "Interactive Machine Teaching for and with novices"
+      institution: "International Conference on Intelligent User Interfaces"
+      year: 2023
+
+- title: 👥 Supervision
+  type: time_table
+  contents:
+    - title: "PhD student"
+      subject: "Interactive Machine Teaching for and with novices"
+      institution: "International Conference on Intelligent User Interfaces"
+      year: 2023
+    - title: "PhD student"
+      subject: "Interactive Machine Teaching for and with novices"
+      institution: "International Conference on Intelligent User Interfaces"
+      year: 2023
+
+- title: 💼 Teaching
+  type: time_table
+  contents:
+    - title: "Teaching assistant"
+      subject: "Interactive Machine Teaching for and with novices"
+      institution: "International Conference on Intelligent User Interfaces"
+      year: 2023
+    - title: "Teaching assistant"
+      subject: "Interactive Machine Teaching for and with novices"
+      institution: "International Conference on Intelligent User Interfaces"
+      year: 2023
+
+- title: 🎙️ Science popularization
+  type: time_table
+  contents:
+    - title: "Science popularization"
+      subject: "Interactive Machine Teaching for and with novices"
+      institution: "International Conference on Intelligent User Interfaces"
+      year: 2023
+    - title: "Science popularization"
+      subject: "Interactive Machine Teaching for and with novices"
+      institution: "International Conference on Intelligent User Interfaces"
+      year: 2023
+
+- title: 🌀 Art
+  type: time_table
+  contents:
+    - title: "Art and music"
+      subject: "Interactive Machine Teaching for and with novices"
+      institution: "International Conference on Intelligent User Interfaces"
+      year: 2023
+    - title: "Art and music"
+      subject: "Interactive Machine Teaching for and with novices"
+      institution: "International Conference on Intelligent User Interfaces"
+      year: 2023
+
+# - title:💬 Languages
+#   type: list
+#   contents:
+#     - <u>French:</u> Native
+#     - <u>English:</u> Fluent
+#     - <u>Spanish:</u> Basic
+
+- title: 🎹 Hobbies
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
