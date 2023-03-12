@@ -1,5 +1,8 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-    {% for content in entry.contents %}
+  {% for group in entry.groups %}
+  <li class="list-group-item">
+    <h6 class="title font-weight-bold ml-1 ml-md-0">{{ group.group_title }}</h6>
+    {% for content in group.contents %}
       {% if long_cv %}
         {% assign hide = false %}
       {% else %}
@@ -77,6 +80,7 @@
           </div>
         </div>
       </li>
-      
+
     {% endfor %}
-    </ul>
+  {% endfor %}
+</ul>
