@@ -1,4 +1,4 @@
-          
+
           <div class="news">
             {% if site.news != blank -%} 
             {%- assign news_size = site.news | size -%}
@@ -11,6 +11,10 @@
               {% assign news_limit = news_size %}
               {% endif %}
               {% for item in news limit: news_limit %} 
+              <!-- false or non specified -->
+                {% if item.show == blank or item.show == false -%} 
+                  {% continue %}
+                {%- endif %}
                 <tr>
                   <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
                   <td>

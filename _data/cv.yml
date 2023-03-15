@@ -3,10 +3,8 @@
   contents:
     - name: Full Name
       value: Téo Sanchez
-    - name: Date of Birth
-      value: 11th of April 1993
-    - name: Place of Birth
-      value: Marseille, France
+    - name: Birth date
+      value: 11th of April 1993, Marseille, France
     - name: Email address
       value: teo [dot] eoures [at] gmail [dot] com
 
@@ -14,9 +12,9 @@
   type: nested_list
   contents:
     - title: Interative Machine Learning
-      description: "How to design systems that improves people's agency on machine learning models?"
+      description: "How to design systems that improves people's agency on machine learning models? In particular, how can we design ML systems in which humans are a collaborative partner both in generating the knowledge data of interest and in using model's predictions."
     - title: Human-centered AI
-      description: "Understanding human-AI interaction as a <b>language and a phenomenon</b>: How to design meaningful interactions between humans and AI systems? How human behaves and reasons when interacting with AI systems?"
+      description: "Understanding human-AI interaction as a <b>language and a phenomenon</b>: How to design meaningful interactions between humans and AI systems? How humans behave and reason when interacting with AI systems?"
     - title: "Community of practice and collaborative work with IA"
       description: "What are emergent and collective practices around AI? How to design AI systems that support and foster these practices?"
 
@@ -197,15 +195,15 @@
       contents:
         - title: "7th edition of the HCI-AI scientific day"
           short_cv: true
-          institutions: "AFIHM,French association of Artificial Intelligence (AFIA), Sorbonne Center for Artificial Intelligence (SCAI) "
+          institution: "AFIHM,French association of Artificial Intelligence (AFIA), Sorbonne Center for Artificial Intelligence (SCAI) "
           subject: "Main organizer"
           year: "jun. 2023"
 
     - group_title: "Conference participation"
       contents:
-        - title: "IHM 2023 - "
+        - title: "IHM 2023 - 34th edition of the international and francophone conference on human-computer interaction"
           short_cv: true
-          subjet: "Thesis talk: Interactive Machine Teaching for and with novices"
+          subject: "Best thesis award talk: Interactive Machine Teaching for and with novices"
           year: "apr. 2023"
         - title: "IUI 2022 - 27th Annual Conference on Intelligent User Interfaces"
           short_cv: true
@@ -234,15 +232,20 @@
           institution: "University of Bergen, Valencian Research Institute of AI"
           subject: "Talk title: Humans as teachers: an HCI approach to building ML models"
           year: "jan. 2023"
+        - title: "Closing symposium and workshop of the ELEMENT project"
+          short_cv: false
+          institution: "IRCAM, Paris"
+          subject: "Interactive Machine Learning"
+          year: "oct. 2022"
         - title: "Participation in the online workshop Better images of AI"
-          short_cv: true
-          subject: "Non-profit and academic project exploring how to better visualise artificial intelligence"
+          short_cv: false
+          subject: "Non-profit and academic project exploring how to better visualize artificial intelligence"
           year: "sept. 2022"
         - title: "Roundtable on How will artificial intelligence change our future?"
           short_cv: false
           institution: "103 digital hub (Startup incubator), Paris"
           year: "jun. 2022"
-        - title: "Talk in the colloquium Human-Computer partnership"
+        - title: "Invited speaker in the colloquium Human-Computer partnership"
           short_cv: true
           institution: "Collège de France, Paris"
           subject: "Interactive Machine Teaching"
@@ -266,59 +269,114 @@
   description: "I completed 392 hours of teaching during my Ph.D. (2018-2022) in Université Paris-Saclay"
   contents:
     - title: "Introduction to computer science and imperative programming"
+      short_cv: true
       subject: "Foundation of computer science, programming in C++, networks and internet architecture"
       year: B.Sc. Sem. 1
     - title: "Introduction to modular programming"
+      short_cv: true
       subject: "Foundation of software engineering, data structures, classes, encapsulation, and testing"
       year: B.Sc. Sem. 2
     - title: "Multidisciplinary projects in math and computer science"
+      short_cv: true
       subject: "Project-based learning, basics in Python and SAGE"
       year: B.Sc. Sem. 2
     - title: "Introduction to Data Science"
+      short_cv: true
       subject: "Processing chain of a data science problem, concepts of statistics and computer vision"
       year: B.Sc. Sem. 2
     - title: "Databases"
+      short_cv: true
       subject: "Theory and applications of databases, relational algebra, normal forms, and SQL"
       year: B.Sc. Sem. 4
     - title: "Introduction to Statistical Learning"
+      short_cv: true
       subject: "Theory and application of Machine Learning, Bayesian models, Neural network, NLP etc."
       year: B.Sc. Sem. 6
     - title: "Interactive Machine Learning"
+      short_cv: true
       subject: "Interactive Machine Learning and related fiels, project-based learning"
       year: M.Sc. Sem. 2
 
 - title: 🎙️ Science popularization
   type: time_table
   contents:
-    - title: "Science popularization"
-      subject: "Interactive Machine Teaching for and with novices"
-      institution: "International Conference on Intelligent User Interfaces"
-      year: 2023
-    - title: "Science popularization"
-      subject: "Interactive Machine Teaching for and with novices"
-      institution: "International Conference on Intelligent User Interfaces"
-      year: 2023
+    - title: "Workshops among high-school students on AI"
+      short_cv: true
+      institution: "Lycée Newton (Clichy), Lycée Jean-Baptiste Say (Paris)"
+      subject: "In collaboration with the TRACES association"
+      year: "jun. 2021"
+    - title: "Confine ta science: Science popularization workshop on neural networks and AI"
+      short_cv: true
+      institution: "Broadcasted on Twitch during the COVID-19 confinement"
+      subject: "In collaboration with the TRACES association"
+      year: "mar. 2020"
+    - title: "Co-creation workshop on Machine Learning"
+      short_cv: true
+      institution: "TURFU festival, Caen, France"
+      subject: "In collaboration with the TRACES association"
+      year: "oct. 2019"
 
 - title: 🌀 Art
   type: time_table
   contents:
-    - title: "Art and music"
-      subject: "Interactive Machine Teaching for and with novices"
-      institution: "International Conference on Intelligent User Interfaces"
-      year: 2023
-    - title: "Art and music"
-      subject: "Interactive Machine Teaching for and with novices"
-      institution: "International Conference on Intelligent User Interfaces"
-      year: 2023
+    - title: "Interactive installation - Cor Epiglottae"
+      short_cv: true
+      institution: "Winner prize of the creARTathon - Exhibited in Gallery Joseph"
+      subject: "in collaboration with Elna Aurand, Alexandre Boiron, Hervé de Saint Blancard, and Junhang Yu"
+      year: "aug. 2021"
+    - title: "Video installation - Figure dissidentes"
+      short_cv: false
+      institution: "Featured in the temporary exhibition DIVAS arabes, Institut de Monde Arabe"
+      subject: "in collaboration with the artist Rita Hajj"
+      year: "aug. 2021"
+    - title: "Pianocktail"
+      short_cv: false
+      institution: "Exhibited during the patronage event of the Cité Internationale Universitaire de Paris"
+      subject: "Musical installation intpired by the work of Boris Vian"
+      year: "fev. 2018"
+    - title: "Sound deign training in Max/MSP"
+      short_cv: true
+      institution: "Structure.Void - artist and developper Julien Bayle"
+      year: "jun. 2017"
+    - title: Classical piano and music theory diploma
+      short_cv: true
+      institution: "Music conservatory in Aubagne, France"
+      year: "apr. 2011"
 
-# - title:💬 Languages
-#   type: list
-#   contents:
-#     - <u>French:</u> Native
-#     - <u>English:</u> Fluent
-#     - <u>Spanish:</u> Basic
+
+- title: 💬 Languages
+  type: nested_map
+  groups: 
+    - title: "Natural languages"
+      contents:
+        - name: "French"
+          value: "Native"
+        - name: "English"
+          value: "Fluent"
+        - name: "German"
+          value: "Beginner"
+        - name: "Spanish"
+          value: "Beginner"
+    - title: "Programming languages"
+      contents:
+        - name: "Development"
+          value: "Python, C++"
+        - name: "Web dev"
+          value: "HTML, CSS, JavaScript, Svelte, Node.js, Express.js"
+        - name: "Machine learning"
+          value: "TensorFlow, PyTorch, Scikit-learn"
+        - name: "Sound processing"
+          value: "PureData, Max/MSP, Faust"
+        - name: "Database"
+          value: "SQL, NeDB"
+        
+
+
 
 - title: 🎹 Hobbies
-  type: list
+  type: map
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - name: "Music"
+      value: "Piano, accordion"
+    - name: "Sport"
+      value: "Hiking, trekking"

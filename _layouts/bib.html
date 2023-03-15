@@ -132,6 +132,11 @@
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
+        
+          <!-- Comment -->
+          {% if entry.comment %}
+          <div class="comment">{{entry.comment}}</div>
+          {% endif %}
 
           <!-- Links/Buttons -->
           <div class="links">

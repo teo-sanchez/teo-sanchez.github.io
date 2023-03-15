@@ -7,7 +7,7 @@
     url: https://www.julesfrancoise.com/
 
 "Mackay":
-  - firstname: ["Wendy", "W.", "W. M.", "Wendy E. Mackay"]
+  - firstname: ["Wendy", "W.", "W. M.", "Wendy E. Mackay", "Wendy Mackay", "Wendy E Mackay"]
     url: https://ex-situ.lri.fr/people/mackay
 
 "Bevilacqua": 
@@ -17,3 +17,7 @@
 "Wanyu": 
   - firstname: ["Liu", "L.", "L. W.", "Liu 'Abby' Wanyu"]
     url: https://abbywanyuliu.com/index.html
+  
+"Thiel":
+  - firstname: ["Pierre", "Pierre Thiel"]
+    url: https://hci.isir.upmc.fr/people/pierre-thiel/

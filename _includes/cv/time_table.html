@@ -27,7 +27,7 @@
             <div class="font-italic ml-1 ml-md-0" style="font-size: 0.95rem;">{{content.institution}}</div>
             {% endif %}
             {% if content.subject %}
-            <div class="ml-1 ml-md-0" style="font-size: 0.95rem;">{{content.subject}}</div>
+            <div class="ml-1 ml-md-0 {% if hide %}hide_event{% endif %}" style="font-size: 0.95rem;">{{content.subject}}</div>
             {% endif %}
             {% if content.supervisors %}
               {% assign supervisors = content.supervisors | join: ", " %}

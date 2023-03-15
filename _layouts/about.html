@@ -41,14 +41,16 @@ layout: default
           </div>
 
           <!-- News -->
+          <br>
           {% if page.news -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+            <h3><a href="{{ '/news/' | relative_url }}" style="color: inherit;">📰 News</a></h3>
             {%- include news.html %}
           {%- endif %}
+          <br>
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h3><a href="{{ '/publications/' | relative_url }}" style="color: inherit;"> 📄 Selected publications</a></h3>
             {%- include selected_papers.html %}
           {%- endif %}
 
