@@ -220,7 +220,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-twitter-plugin
   - jemoji
-  - terser
+  - jekyll-assets
 
 # Sitemap settings
 defaults:
@@ -234,10 +234,14 @@ defaults:
 # -----------------------------------------------------------------------------
 
 assets:
+  sources:
+    - _assets/css
+    - _assets/js
+    - _assets/img
+  js_compressor: terser
   exclude:
     - "/demos/activite-ia/assets/vendor.e33fb0e0.js"
     - "/demos/introsciencedonnees/assets/vendor.1c00007a.js"
-  js_compressor: uglifier
   uglifier:
     harmony: true
 

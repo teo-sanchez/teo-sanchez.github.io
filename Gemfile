@@ -14,8 +14,7 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'sprockets'
-    gem 'sprockets-uglifier_with_source_maps', require: false
+    gem 'jekyll-assets'
     gem 'terser'
     # gem 'mini_racer'
     gem 'unicode_utils'
