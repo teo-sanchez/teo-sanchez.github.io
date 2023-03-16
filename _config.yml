@@ -242,7 +242,7 @@ assets:
     js: terser
 
 jekyll-minifier:
-  exclude: ['robots.txt']
+  exclude: ['/demos/activite-ia/assets/vendor.e33fb0e0.js', '/demos/introsciencedonnees/assets/vendor.1c00007a.js']
   uglifier_args:
     harmony: true
   
