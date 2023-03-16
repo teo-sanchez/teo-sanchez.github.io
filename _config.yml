@@ -235,15 +235,12 @@ defaults:
 
 assets:
   sources:
-    - _assets/css
-    - _assets/js
-    - _assets/img
-  js_compressor: terser
-  exclude:
-    - "/demos/activite-ia/assets/vendor.e33fb0e0.js"
-    - "/demos/introsciencedonnees/assets/vendor.1c00007a.js"
-  uglifier:
-    harmony: true
+    - assets/css
+    - assets/js
+    - assets/img
+  compress:
+    js: terser
+
 
 
 
