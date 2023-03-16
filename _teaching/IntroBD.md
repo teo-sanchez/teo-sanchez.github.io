@@ -8,6 +8,7 @@ category: Licence 2
 manager: Nicole Bidoit
 year: 2022
 webpage: https://ecampus.paris-saclay.fr/course/view.php?id=66414
+show: true
 ---
 
 Theory and applications of data base concepts: Entity-Association model, relational model, passage from E/A to relational model, relational algebra and application in SQL, normal forms (Boyce Codd, NF2 and NF3) and normalizations.

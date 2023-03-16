@@ -5,6 +5,7 @@ description: A collaboration with the artist Rita Hajj
 img: /assets/img/figures-dissidentes/figures_dissidentes.gif
 importance: 1
 category: art
+show: true
 ---
 
 In 2020, I collaborated with the artist Rita Hajj on her work "Figures Dissidentes", in which I designed a generative model trained on a corpus of the dance practice popularized during the Egyptian golden era, mixing 

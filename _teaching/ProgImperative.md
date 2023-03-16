@@ -8,6 +8,7 @@ category: Licence 1
 manager: Nicolas Thiéry
 website: https://nicolas.thiery.name/Enseignement/Info111/
 year: 2018, 2019, 2020, 2021
+show: true
 ---
 
 Check out the [webpage of the class](https://nicolas.thiery.name/Enseignement/Info111) for more info!

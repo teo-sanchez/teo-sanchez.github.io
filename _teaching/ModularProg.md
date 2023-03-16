@@ -8,6 +8,7 @@ category: Licence 1
 manager: Florent Hivert
 website: https://www.lri.fr/~hivert/COURS/ProgMod/ProgMod.html
 year: 2022
+show: true
 ---
 
 Check out the [webpage of the class](https://www.lri.fr/~hivert/COURS/ProgMod/ProgMod.html) for more info.

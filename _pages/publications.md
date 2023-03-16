@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: "Publications test"
+title: "publications"
+page_title: "Publications 📄"
 description: Publications in reverse chronological orders
 years: [2022, 2021, 2020, 2014]
 nav: true

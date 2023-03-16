@@ -5,6 +5,7 @@ description: Design and realisation of the fictionnal pianocktail from the frenc
 img: /assets/img/pianocktail/pianocktail.gif
 importance: 1
 category: art
+show: true
 ---
 
 Boris Vian is a prolific french artist that I particulary admire for his ability to have multiple life in one. He only lived 39 years but he was trained engineer (in Centrale Paris, now part of Paris-Saclay), a jazz trumpeter, a writer (mostyle known for this) and a song composer and interpret!

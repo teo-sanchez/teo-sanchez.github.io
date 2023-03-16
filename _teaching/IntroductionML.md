@@ -8,6 +8,7 @@ category: Licence 3
 manager: François Landes
 webpage: https://gitlab.inria.fr/flandes/ias
 year: 2022
+show: true
 ---
 
 Theoretical and applicative notions of machine learning. The class materials are available [here](https://gitlab.inria.fr/flandes/ias).

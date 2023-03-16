@@ -8,4 +8,5 @@ category: Licence 1
 manager: Isabelle Guyon, Fanny Pouyet
 year: 2021, 2022
 website: https://nicolas.thiery.name/Enseignement/IntroScienceDonnees
+show: true
 ---

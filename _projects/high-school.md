@@ -13,6 +13,7 @@ authors:
 
 
 bibliography: summer-school.bib
+show: true
 ---
 
 

@@ -3,6 +3,7 @@ layout: page
 title: Cor Epiglottae
 description: An interactive installation created during the Inria creative Hackathon 2021.
 img: /assets/img/cor-epiglottae/cor_epiglottae.gif
+show: true
 importance: 1
 category: art
 ---

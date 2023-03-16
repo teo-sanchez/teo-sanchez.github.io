@@ -1,14 +1,15 @@
 ---
 layout: page
 title: teaching
+page_title: "Teaching 💼"
 permalink: /teaching/
-description: Archive of the class I was involved in. I completed <b>392</b> hours of teaching so far.
+description: Archive of the classes I was involved in as as teaching assistant. I completed <b>392</b> hours of teaching in Université Paris-Saclay so far.
 nav: true
 display_categories: [Licence 1, Licence 2, Licence 3, Master 1]
 horizontal: true
 nav_order: 3
 ---
-<div class="teachings">
+<div class="projects">
   {% if site.enable_teaching_categories and page.display_categories %}
   <!-- Display categorized teaching -->
     {% for category in page.display_categories %}
@@ -20,35 +21,42 @@ nav_order: 3
         <div class="container">
           <div class="row row-cols-1">
           {% for teaching in sorted_teaching %}
-            {% include teachings_horizontal.html %}
+            {% if teaching.show %}
+              {% include teachings_horizontal.html %}
+            {% endif %}
           {% endfor %}
           </div>
         </div>
       {% else %}
         <div class="grid">
           {% for teaching in sorted_teaching %}
-            {% include teachings.html %}
+            {% if teaching.show %}
+              {% include teachings.html %}
+            {% endif %}
           {% endfor %}
         </div>
       {% endif %}
     {% endfor %}
 
   {% else %}
-  <!-- Display teachings without categories -->
     {% assign sorted_teaching = site.teaching | sort: "importance" %}
     <!-- Generate cards for each teaching -->
     {% if page.horizontal %}
       <div class="container">
         <div class="row row-cols-1">
         {% for teaching in sorted_teaching %}
-          {% include teachings_horizontal.html %}
+          {% if teaching.show %}
+            {% include teachings_horizontal.html %}
+          {% endif %}
         {% endfor %}
         </div>
       </div>
     {% else %}
       <div class="grid">
         {% for teaching in sorted_teaching %}
-          {% include teachings.html %}
+          {% if teaching.show %}
+            {% include teachings.html %}
+          {% endif %}
         {% endfor %}
       </div>
     {% endif %}

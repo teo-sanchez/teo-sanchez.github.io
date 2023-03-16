@@ -9,6 +9,7 @@ manager: Jules Françoise and Baptiste Caramiaux
 website: https://github.com/bcaramiaux/IML
 github: https://github.com/bcaramiaux/IML
 year: 2021
+show: true
 ---
 
 I was a teaching assistant supervising the master students' projets.
