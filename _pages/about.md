@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: teo-sanchez-profile-pic.jpeg
   image_circular: false # crops the image to make it circular
   address: |
     I'm open for post-doc opportunities in Germany! 🇩🇪

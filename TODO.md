@@ -12,7 +12,7 @@
 ## Project
 
 - [ ] Change title
-- [ ] Add thumbnail
+- [x] Add thumbnail
 - [ ] Update articles
 - [ ] 
 
