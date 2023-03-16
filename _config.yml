@@ -220,7 +220,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-twitter-plugin
   - jemoji
-  - jekll-terser
+  - terser
 
 # Sitemap settings
 defaults:
