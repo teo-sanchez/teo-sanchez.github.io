@@ -26,7 +26,7 @@ En cas de probl\xE8mes avec les outils interactifs:
 <ul>
 <li> Si les pr\xE9dictions ne fonctionnent pas: Avez-vous bien entra\xEEner votre classifieur? Si oui, rafra\xEEchissez la page.
 <li> Si les images ne sont pas accessibles lors de l'\xE9valuation ou du d\xE9ploiement: re-t\xE9l\xE9charger les donn\xE9es et r\xE9entra\xEEner votre classifieur.
-<li> Vous pouvez \xE9galement vous rendre dans les param\xE8tres en cliquand sur l'ic\xF4ne <img size="5%" src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/settings.png" > pour supprimer vos donn\xE9es et vos mod\xE8les.
+<li> Vous pouvez \xE9galement vous rendre dans les param\xE8tres en cliquand sur l'ic\xF4ne <img size="5%" src="/assets/demos_data/images/settings.png" > pour supprimer vos donn\xE9es et vos mod\xE8les.
 </ul>
 `);we.title="";const pt=o(v(e.history.video.url,e.history.video.title,e.history.video.width,e.history.video.height));pt.title=e.history.video.title;const xe=o(`
 <style>
@@ -52,13 +52,13 @@ Pour cette \xE9cole de pens\xE9e, l'enjeu est de trouver les repr\xE9sentations 
 </ul>
 
 C'est par l'approche connexionniste que le domaine de recherche a d\xE9but\xE9 entre les ann\xE9es  40 et 60, avant m\xEAme que les ordinateurs n'existent.
-Le chercheur am\xE9ricain <a class="depliable" href="#histoire">Frank Rosenblatt<img  width= 200 height=200 src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/rosenblatt.jpeg"></a> construit le <a href="https://fr.wikipedia.org/wiki/Perceptron" target="_blank">Perceptron</a>, un r\xE9seau de neurone artificiel simul\xE9 avec des circuits \xE9lectriques analogiques.
+Le chercheur am\xE9ricain <a class="depliable" href="#histoire">Frank Rosenblatt<img  width= 200 height=200 src="/assets/demos_data/images/rosenblatt.jpeg"></a> construit le <a href="https://fr.wikipedia.org/wiki/Perceptron" target="_blank">Perceptron</a>, un r\xE9seau de neurone artificiel simul\xE9 avec des circuits \xE9lectriques analogiques.
 <br><br>
 L'approche symbolique critiquera le manque de rigueur math\xE9matique des travaux de Rosenblatt.
 Cette approche d\xE9bute en 1956 avec <a href="https://fr.wikipedia.org/wiki/Conf%C3%A9rence_de_Dartmouth" target="_blank">la conf\xE9rence de Dartmouth</a>.
-Elle est men\xE9 par une poign\xE9e de chercheurs am\xE9ricains: les math\xE9maticiens <a class="depliable" href="#histoire">Marvin Minsky<img  width= 200 height=200 src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/minsky.jpeg"></a>
- et <a class="depliable" href="#histoire">John McCarthy<img  width= 200 height=200 src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/mccarthy.jpeg"></a> et les psychologues 
- <a class="depliable" href="#histoire">Allen Newell et Herbert Simon<img  width= 360 height=273 src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/simon.jpeg"></a>.
+Elle est men\xE9 par une poign\xE9e de chercheurs am\xE9ricains: les math\xE9maticiens <a class="depliable" href="#histoire">Marvin Minsky<img  width= 200 height=200 src="/assets/demos_data/images/minsky.jpeg"></a>
+ et <a class="depliable" href="#histoire">John McCarthy<img  width= 200 height=200 src="/assets/demos_data/images/mccarthy.jpeg"></a> et les psychologues 
+ <a class="depliable" href="#histoire">Allen Newell et Herbert Simon<img  width= 360 height=273 src="/assets/demos_data/images/simon.jpeg"></a>.
  C'est lors de cette conf\xE9rence que sera choisi le terme <b>intelligence artificielle</b> pour d\xE9signer le domaine.
 Ce terme, un peu pr\xE9somptueux et regroupant des disciplines diverses, sera souvent accompagn\xE9 de pr\xE9dictions irr\xE9alistes de la part des m\xE9dias mais aussi des chercheurs!
 Ces pr\xE9visions attireront les investissements, venant surtout des corps de l'arm\xE9e am\xE9ricaine. Ces derniers esp\xE8rent des avanc\xE9es strat\xE9giques pour gagner la guerre froide: la traduction automatique du russe ou des armes contr\xF4l\xE9s \xE0 distance, par commandes vocales.
@@ -70,9 +70,9 @@ De nos jour, un r\xE9seau de neurone apprends \xE0 r\xE9aliser une t\xE2che (cla
 Les neurones artificiels sont organis\xE9s en couches interconnect\xE9s, sur plusieurs niveaux de profondeur: on parle d'<a href="https://fr.wikipedia.org/wiki/Apprentissage_profond" target="_blank">apprentissage profond</a> ou Deep Learning.
 Simuler de tels architectures n\xE9cessite des calculs parall\xE8les avec des cartes graphiques (GPU), les m\xEAmes utilis\xE9s par les gamers.
 Les chercheurs pionniers du domaine sont le fran\xE7ais 
-<a class="depliable" href="#histoire">Yann Lecun<img  width= 200 height=200 src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/lecun.jpeg"></a> et les canadiens 
-<a class="depliable" href="#histoire">Yoshua Bengio<img  width= 200 height=200 src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/bengio.jpeg"></a> et 
-<a class="depliable" href="#histoire">Geoffrey Hinton<img  width= 200 height=200 src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/hinton.jpeg"></a>.
+<a class="depliable" href="#histoire">Yann Lecun<img  width= 200 height=200 src="/assets/demos_data/images/lecun.jpeg"></a> et les canadiens 
+<a class="depliable" href="#histoire">Yoshua Bengio<img  width= 200 height=200 src="/assets/demos_data/images/bengio.jpeg"></a> et 
+<a class="depliable" href="#histoire">Geoffrey Hinton<img  width= 200 height=200 src="/assets/demos_data/images/hinton.jpeg"></a>.
 Leur approche a bouscul\xE9 de nombreux domaines o\xF9 les scientifiques tentaient de mod\xE9liser explicitement des ph\xE9nom\xE8nes.
 Avec le Deep Learning, ces ph\xE9nom\xE8nes peuvent \xEAtre mod\xE9lis\xE9s si l'on dispose de la bonne architecture, des bons param\xE8tres, de suffisamment de donn\xE9es et de puissance de calcul.
 Une fois le ph\xE9nom\xE8ne mod\xE9lis\xE9, on peut r\xE9aliser des <b>pr\xE9dictions</b> sur des donn\xE9es nouvelles.
@@ -108,7 +108,7 @@ L'Intelligence Artificielle est un terme qui a \xE9volu\xE9 au cours de l'histoi
 Dans la suite, on s'int\xE9resse \xE0 des algorithmes d'<b>apprentissage automatique</b>. Plus pr\xE9cisemment, nous allons \xE9tudier deux algorithmes de <b>classification</b> qui s'appliquent sur des <b>images</b>.
 <br>
 <br>
-Le processus pour entra\xEEner des algorithmes d'apprentissage automatique se d\xE9compose en <a class="depliable" href="#donnees">5 \xE9tapes<img  width= 648 height=428 src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/diagramme_cycle.png"></a>: la collecte des donn\xE9es, l'extraction des attributs, l'entra\xEEnement, l'\xE9valuation et le d\xE9ploiement
+Le processus pour entra\xEEner des algorithmes d'apprentissage automatique se d\xE9compose en <a class="depliable" href="#donnees">5 \xE9tapes<img  width= 648 height=428 src="/assets/demos_data/images/diagramme_cycle.png"></a>: la collecte des donn\xE9es, l'extraction des attributs, l'entra\xEEnement, l'\xE9valuation et le d\xE9ploiement
 Des probl\xE8mes peuvent appara\xEEtre lors de l'une des \xE9tapes.
 Par exemple, les pr\xE9dictions du r\xE9seau de neurone peuvent \xEAtre syst\xE9matiquement fausses.
 On peut alors revenir \xE0 l'une ou l'autre des \xE9tapes pr\xE9c\xE9dentes pour identifier et corriger d'\xE9ventuels probl\xE8mes.
@@ -149,7 +149,7 @@ Nous disposons \xE0 pr\xE9sent d'images brutes, r\xE9partis en deux ensemble: l'
 Une images couleur brute peut \xEAtre vue comme l'ensemble de trois tableaux de nombres. Chaque tableau repr\xE9sente un canal de couleur: rouge, vert et bleu.
 On parle des canaux RGB (Red, Green, Blue).
 Les valeurs de ces tableaux repr\xE9sentent l'intensit\xE9 du pixel pour la couleur concern\xE9e.
-L'image finale correspond \xE0 la superposition des trois canaux de couleurs. Voici <a class="depliable" href="#attributs">un sch\xE9ma<img  width= 459 height=441 src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/RGB_layers.jpeg"></a> repr\xE9sentant la structure d'une image RGB de 3 par 3 pixels.
+L'image finale correspond \xE0 la superposition des trois canaux de couleurs. Voici <a class="depliable" href="#attributs">un sch\xE9ma<img  width= 459 height=441 src="/assets/demos_data/images/RGB_layers.jpeg"></a> repr\xE9sentant la structure d'une image RGB de 3 par 3 pixels.
 <BR>
 Puisque nos images sont dans un format carr\xE9 de 224 pixels par 224 pixels, on se retrouve avec 224x224x3 = 150528 valeurs que notre algorithme d'apprentissage doit traiter.
 Les r\xE9seaux de neurones \xE0 architecture profonde sont capables d'apprendre sur de telles images, mais l'entra\xEEnement requiert beaucoup d'images, de temps de calcul et du mat\xE9riel sp\xE9cialis\xE9 (GPU).
@@ -203,7 +203,7 @@ L'algorithme des k plus proches voisins est un algorithme de classification qui 
 <br>
 Pour que la notion de voisinage ait un sens, il faut encore que l'on d\xE9finisse <b>une distance</b>.
 On choisira la distance Euclidienne sur nos images maintenant repr\xE9sent\xE9es par un vecteur de 1024 valeurs.
-Vous connaissez d\xE9j\xE0 <a class="depliable" href="#entrainement">la distance euclidienne en dimension 2<img  width=376 height=42 src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/euclidean_distance_2.jpeg"></a> entre deux vecteurs u et v. En dimension N=1024, cette formule se g\xE9n\xE9ralise <a class="depliable" href="#entrainement">ainsi<img  width=654 height=91 src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/euclidean_distance.jpeg"></a>.
+Vous connaissez d\xE9j\xE0 <a class="depliable" href="#entrainement">la distance euclidienne en dimension 2<img  width=376 height=42 src="/assets/demos_data/images/euclidean_distance_2.jpeg"></a> entre deux vecteurs u et v. En dimension N=1024, cette formule se g\xE9n\xE9ralise <a class="depliable" href="#entrainement">ainsi<img  width=654 height=91 src="/assets/demos_data/images/euclidean_distance.jpeg"></a>.
 <br>
 <br>
 
@@ -231,7 +231,7 @@ Il est l'h\xE9ritier du perceptron de Frank Rosenblatt invent\xE9 1957 qui n'ava
 Observons un sch\xE9ma repr\xE9sentant un neurone artificiel (gauche) et un r\xE9seau de neurones artificiel (droite):
 <br>
 <br>
-<img class="center" src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/perceptron.png" >
+<img class="center" src="/assets/demos_data/images/perceptron.png" >
 <br>
 
 \xC0 gauche, le neurone artificiel a un comportement inspir\xE9 du neurone biologique: 
@@ -309,7 +309,7 @@ Si vous disposez d'une webcam, vous pouvez filmer votre environnement pour teste
 <br>
 <br>
 Les param\xE8tres de vos algorithmes entra\xEEn\xE9s peuvent \xEAtre enregistr\xE9s pour \xEAtre ensuite importer dans un outil de programmation (comme python).<br><br>
-<b>Exercice:</b> Allez dans les param\xE8tres en cliquant sur l'ic\xF4ne <img size="5%" src="https://www.lisn.upsaclay.fr/~tsanchez/activite_ia/assets/images/settings.png" > puis cliquer sur "Download Model" pour t\xE9l\xE9charger les param\xE8tres du perceptron (MLP) entra\xEEn\xE9.
+<b>Exercice:</b> Allez dans les param\xE8tres en cliquant sur l'ic\xF4ne <img size="5%" src="/assets/demos_data/images/settings.png" > puis cliquer sur "Download Model" pour t\xE9l\xE9charger les param\xE8tres du perceptron (MLP) entra\xEEn\xE9.
 Vous aurez deux fichiers \xE0 t\xE9l\xE9charger: un fichier .json (comprenant l'architecture du perceptron) et un fichier .bin (contenant les poids des connexions entre les neurones).
 <b>
 `);Se.title=e.evaluation.text.title;const Pt=L.$images.filter(()=>L.$active.value).map(async t=>A.process(t)).awaitPromises(),_t=x.$selected.filter(t=>t.length===1).map(([t])=>u.get(t)).awaitPromises().map(t=>t.x),Nt=q.$selected.filter(t=>t.length===1).map(([t])=>d.get(t)).awaitPromises().map(t=>t.x),ze=Nt.merge(_t).merge(Pt),kt=L.$images.filter(()=>L.$active.value),Mt=x.$selected.filter(t=>t.length===1).map(([t])=>u.get(t)).awaitPromises().map(t=>t.image),St=q.$selected.filter(t=>t.length===1).map(([t])=>d.get(t)).awaitPromises().map(t=>t.image);function zt(t){var s=new Uint8ClampedArray(t.width*t.height*4);for(let n=0;n<=3;n++)for(let a=0;a<t.width;a++)for(let r=0;r<t.height;r++)s[a*t.width*4+r*4+n]=t.data[a*t.width*4+(t.width-r)*4+n];var i=new ImageData(s,t.width,t.height);return i}const Et=kt.map(async t=>zt(t)).awaitPromises(),Ct=Et.merge(Mt).merge(St),se=Qe(Ct);se.title=e.deployment.display;const jt=ze.map(async t=>y.predict(t)).awaitPromises(),At=ze.map(async t=>w.predict(t)).awaitPromises(),ie=be(jt);ie.title=e.deployment.mlp.plot;const ne=be(At);ne.title=e.deployment.knn.plot;const It=o(v(e.adversarial.video.url,e.adversarial.video.title,e.adversarial.video.width,e.adversarial.video.height));It.title=e.adversarial.video.title;const Dt=o(`
