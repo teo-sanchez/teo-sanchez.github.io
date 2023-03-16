@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Miguel's defence"
+	screenMode="AUTO"
+	enableLooping="true"
+	galleryTitlePosition="NONE"
+	imageTransitionType="FADE"
+	imagePreloading="PAGE"
+	showImageOverlay="NEVER"
+	thumbsPosition="BOTTOM"
+	thumbNavPosition="CENTER"
+	buttonBarPosition="TOP"
+	buttonBarHAlign="CENTER"
+	showAutoPlayButton="true"
+	showAudioButton="true"
+	showInfoButton="false"
+	showDownloadButton="true"
+	showNavButtons="true"
+	captionPosition="NONE"
+	enableAutoPlay="true"
+	playAudioOnLoad="true"
+	shareTwitter="true"
+	showSplashPage="ALWAYS"
+	splashTitle="Miguel's Defence"
+	flickrShowDescription="false"
+	galleryDescription=""
+	audioUrlMp3="audio.mp3"
+	splashImageUrl="images/4B470E9A-5F5B-4BF9-855A-6C9103B25C30_1_105_c.jpeg"
+
+>
+  <image imageURL="images/EF1B2802-C7E7-4A7B-A6B2-2D962AC5FB50_1_105_c.jpeg"
+	thumbURL="thumbs/EF1B2802-C7E7-4A7B-A6B2-2D962AC5FB50_1_105_c.jpeg"
+	linkURL="images/EF1B2802-C7E7-4A7B-A6B2-2D962AC5FB50_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/E/EF1B2802-C7E7-4A7B-A6B2-2D962AC5FB50_1_105_c.jpeg">
+    <title><![CDATA[EF1B2802-C7E7-4A7B-A6B2-2D962AC5FB50_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/23BB47CA-7F37-430D-8B58-3B26EE87E345_1_105_c.jpeg"
+	thumbURL="thumbs/23BB47CA-7F37-430D-8B58-3B26EE87E345_1_105_c.jpeg"
+	linkURL="images/23BB47CA-7F37-430D-8B58-3B26EE87E345_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/2/23BB47CA-7F37-430D-8B58-3B26EE87E345_1_105_c.jpeg">
+    <title><![CDATA[23BB47CA-7F37-430D-8B58-3B26EE87E345_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/F1B0CC20-A38E-4475-90F1-4814AAC305A2_1_105_c.jpeg"
+	thumbURL="thumbs/F1B0CC20-A38E-4475-90F1-4814AAC305A2_1_105_c.jpeg"
+	linkURL="images/F1B0CC20-A38E-4475-90F1-4814AAC305A2_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/F/F1B0CC20-A38E-4475-90F1-4814AAC305A2_1_105_c.jpeg">
+    <title><![CDATA[F1B0CC20-A38E-4475-90F1-4814AAC305A2_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/B8F3A69C-8DCE-43C0-8A96-590D5136EC3E_1_105_c.jpeg"
+	thumbURL="thumbs/B8F3A69C-8DCE-43C0-8A96-590D5136EC3E_1_105_c.jpeg"
+	linkURL="images/B8F3A69C-8DCE-43C0-8A96-590D5136EC3E_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/B/B8F3A69C-8DCE-43C0-8A96-590D5136EC3E_1_105_c.jpeg">
+    <title><![CDATA[B8F3A69C-8DCE-43C0-8A96-590D5136EC3E_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/AB835E38-1BCB-44A4-93E8-47CBADB3DC50_1_105_c.jpeg"
+	thumbURL="thumbs/AB835E38-1BCB-44A4-93E8-47CBADB3DC50_1_105_c.jpeg"
+	linkURL="images/AB835E38-1BCB-44A4-93E8-47CBADB3DC50_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/A/AB835E38-1BCB-44A4-93E8-47CBADB3DC50_1_105_c.jpeg">
+    <title><![CDATA[AB835E38-1BCB-44A4-93E8-47CBADB3DC50_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DD951AB7-59B5-4198-B956-A39BAB7A83C4_1_105_c.jpeg"
+	thumbURL="thumbs/DD951AB7-59B5-4198-B956-A39BAB7A83C4_1_105_c.jpeg"
+	linkURL="images/DD951AB7-59B5-4198-B956-A39BAB7A83C4_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/D/DD951AB7-59B5-4198-B956-A39BAB7A83C4_1_105_c.jpeg">
+    <title><![CDATA[DD951AB7-59B5-4198-B956-A39BAB7A83C4_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/548D2CC7-8FCD-40BC-B177-08EE53A125F7_1_105_c.jpeg"
+	thumbURL="thumbs/548D2CC7-8FCD-40BC-B177-08EE53A125F7_1_105_c.jpeg"
+	linkURL="images/548D2CC7-8FCD-40BC-B177-08EE53A125F7_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/5/548D2CC7-8FCD-40BC-B177-08EE53A125F7_1_105_c.jpeg">
+    <title><![CDATA[548D2CC7-8FCD-40BC-B177-08EE53A125F7_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/91829927-2D60-492A-8A90-1FA707EEABDF_1_105_c.jpeg"
+	thumbURL="thumbs/91829927-2D60-492A-8A90-1FA707EEABDF_1_105_c.jpeg"
+	linkURL="images/91829927-2D60-492A-8A90-1FA707EEABDF_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/9/91829927-2D60-492A-8A90-1FA707EEABDF_1_105_c.jpeg">
+    <title><![CDATA[91829927-2D60-492A-8A90-1FA707EEABDF_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8C449678-AFC7-4317-B76A-1F31A9305FF0_1_105_c.jpeg"
+	thumbURL="thumbs/8C449678-AFC7-4317-B76A-1F31A9305FF0_1_105_c.jpeg"
+	linkURL="images/8C449678-AFC7-4317-B76A-1F31A9305FF0_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/8/8C449678-AFC7-4317-B76A-1F31A9305FF0_1_105_c.jpeg">
+    <title><![CDATA[8C449678-AFC7-4317-B76A-1F31A9305FF0_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/59DD5ABF-8D3C-4A73-BBEB-45790F024C11_1_105_c.jpeg"
+	thumbURL="thumbs/59DD5ABF-8D3C-4A73-BBEB-45790F024C11_1_105_c.jpeg"
+	linkURL="images/59DD5ABF-8D3C-4A73-BBEB-45790F024C11_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/5/59DD5ABF-8D3C-4A73-BBEB-45790F024C11_1_105_c.jpeg">
+    <title><![CDATA[59DD5ABF-8D3C-4A73-BBEB-45790F024C11_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/A267FAFB-FE04-4A19-8BCE-C93E856B03DF_1_105_c.jpeg"
+	thumbURL="thumbs/A267FAFB-FE04-4A19-8BCE-C93E856B03DF_1_105_c.jpeg"
+	linkURL="images/A267FAFB-FE04-4A19-8BCE-C93E856B03DF_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/A/A267FAFB-FE04-4A19-8BCE-C93E856B03DF_1_105_c.jpeg">
+    <title><![CDATA[A267FAFB-FE04-4A19-8BCE-C93E856B03DF_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4B470E9A-5F5B-4BF9-855A-6C9103B25C30_1_105_c.jpeg"
+	thumbURL="thumbs/4B470E9A-5F5B-4BF9-855A-6C9103B25C30_1_105_c.jpeg"
+	linkURL="images/4B470E9A-5F5B-4BF9-855A-6C9103B25C30_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/4/4B470E9A-5F5B-4BF9-855A-6C9103B25C30_1_105_c.jpeg">
+    <title><![CDATA[4B470E9A-5F5B-4BF9-855A-6C9103B25C30_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/301A460F-A155-4FF6-A56E-3476BC77B7CC_1_105_c.jpeg"
+	thumbURL="thumbs/301A460F-A155-4FF6-A56E-3476BC77B7CC_1_105_c.jpeg"
+	linkURL="images/301A460F-A155-4FF6-A56E-3476BC77B7CC_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/3/301A460F-A155-4FF6-A56E-3476BC77B7CC_1_105_c.jpeg">
+    <title><![CDATA[301A460F-A155-4FF6-A56E-3476BC77B7CC_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/EC9F02BC-1898-40E5-80D0-3F2DA291BB15_1_105_c.jpeg"
+	thumbURL="thumbs/EC9F02BC-1898-40E5-80D0-3F2DA291BB15_1_105_c.jpeg"
+	linkURL="images/EC9F02BC-1898-40E5-80D0-3F2DA291BB15_1_105_c.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/Photos Library.photoslibrary/resources/derivatives/E/EC9F02BC-1898-40E5-80D0-3F2DA291BB15_1_105_c.jpeg">
+    <title><![CDATA[EC9F02BC-1898-40E5-80D0-3F2DA291BB15_1_105_c]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -17,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Post-doctoral researcher working on **human-AI interaction**. I did my Ph.D. in [ExSitu](https://ex-situ.lri.fr/) research team, [LISN](https://www.lisn.upsaclay.fr/) and [HCI](https://hci.isir.upmc.fr/) team in [ISIR](https://www.isir.upmc.fr/).
+I am a postdoctoral researcher specializing in human-AI interaction. I earned m Ph.D. as a member of the [ExSitu](https://ex-situ.lri.fr/) research team in [LISN](https://www.lisn.upsaclay.fr/), and the [HCI](https://hci.isir.upmc.fr/) team in [ISIR](https://www.isir.upmc.fr/).
 
-I’m interested in understanding how people comprehend and interact with AI systems, and designing meaningful interactions with machine learning algorithms.
+My primary focus is on understanding how people comprehend and interact with AI systems, with the goal of designing meaningful and effective interactions with machine learning algorithms.
 
-I'm especially working on teachable ML systems in which people can simultaneously generating the training data of interest and in using model’s predictions.
+In particular, my work focuses on understanding and developing teachable ML systems that enable users to simultaneously generate the knowledge data of interest and experience the model’s predictions and improvements. I believe this approach has the potential to advance more personalized and transparent AI systems, making it worthy of study as a new interaction language and phenomenon, especially among non-expert users in AI, either for pedagogy or in specialized domains.
