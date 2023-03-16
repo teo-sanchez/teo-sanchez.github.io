@@ -241,6 +241,11 @@ assets:
   compress:
     js: terser
 
+jekyll-minifier:
+  exclude: ['robots.txt']
+  uglifier_args:
+    harmony: true
+  
 
 
 
