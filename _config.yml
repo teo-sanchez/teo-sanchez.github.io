@@ -232,18 +232,14 @@ defaults:
 # Jekyll Minifier
 # -----------------------------------------------------------------------------
 
-jekyll-minifier:
-  exclude: ['vendor.e33fb0e0.js', "vendor.1c00007a.js"]
-  uglifier_args:
-    harmony: true
-
 assets:
   exclude:
-    - "vendor.e33fb0e0.js"
-    - "vendor.1c00007a.js"
+    - "/demos/activite-ia/assets/vendor.e33fb0e0.js"
+    - "/demos/introsciencedonnees/assets/vendor.1c00007a.js"
   js_compressor: uglifier
   uglifier:
     harmony: true
+
 
 
 
