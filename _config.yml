@@ -237,6 +237,16 @@ jekyll-minifier:
   uglifier_args:
     harmony: true
 
+assets:
+  js_compressor: uglifier
+  uglifier:
+    harmony: true
+
+
+
+  
+
+
 # -----------------------------------------------------------------------------
 # Jekyll Archives
 # -----------------------------------------------------------------------------
