@@ -20,7 +20,3 @@
 
 - [ ] Update description and title
 - [ ] Space between courses
-
-## CV
-
-- [ ] Match CV color with website
