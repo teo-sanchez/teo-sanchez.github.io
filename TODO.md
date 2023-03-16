@@ -4,6 +4,7 @@
 - [ ] Change pic
 ## Project
 
+- [x] Add demos
 - [ ] Update articles
 
 ## Teaching
