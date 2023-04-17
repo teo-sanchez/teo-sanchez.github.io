@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: Workshop on AI with highschool students
-description: Debrief of the worshops I conducted with 17 years old high school students in may 2021. In collaboration with the association TRACES.
+title: Advancing AI literacy among high school students with Interactive Machine Learning 
+description: Debrief of the worshops I conducted with 17 years old high school students in 2021 and 2022. In collaboration with the association TRACES.
 img: /assets/img/highschool/newton.jpeg
 importance: 3
 category: science
@@ -16,6 +16,9 @@ bibliography: summer-school.bib
 show: true
 ---
 
+## Context
+
+I conducted two workshops on AI in very different highschools in the Paris region. 
 
 I  was contacted by the association [TRACES](https://www.groupe-traces.fr/?lang=en) to conduct workshops with students from the highschool [Isaac Newton](https://www.lycee-newton.fr/) in Clichy (92100).
 
