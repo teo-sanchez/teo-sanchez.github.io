@@ -6,4 +6,4 @@ inline: true
 show: true
 ---
 
-Our research paper "Examining the Text-to-Image Community of Practice: Why and How do People Prompt Generative AIs?" with [Selas Studio](https://www.selas.ai/) is conditionally accepted at [C&C 2023](https://cc.acm.org/2023/). Camera-ready version coming soon !
+Our research paper *Examining the Text-to-Image Community of Practice: Why and How do People Prompt Generative AIs?* with [Selas Studio](https://www.selas.ai/) is conditionally accepted at [C&C 2023](https://cc.acm.org/2023/). Camera-ready version coming soon !
