@@ -19,6 +19,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a postdoctoral researcher specializing in human-AI interaction. I earned m Ph.D. as a member of the [ExSitu](https://ex-situ.lri.fr/) research team in [LISN](https://www.lisn.upsaclay.fr/), and the [HCI](https://hci.isir.upmc.fr/) team in [ISIR](https://www.isir.upmc.fr/).
 
-My primary focus is on understanding how people comprehend and interact with AI systems, with the goal of designing meaningful and effective interactions with machine learning algorithms.
+My primary focus is on understanding how people comprehend and interact with AI systems, alongside designing meaningful and effective interactions with machine learning algorithms.
 
-In particular, my work focuses on understanding and developing teachable ML systems that enable users to simultaneously generate the knowledge data of interest and experience the model’s predictions and improvements. I believe this approach has the potential to advance more personalized and transparent AI systems, making it worthy of study as a new interaction language and phenomenon, especially among non-expert users in AI, either for pedagogy or in specialized domains.
+In particular, my work focuses on understanding and developing teachable ML systems that enable users to simultaneously generate the knowledge data of interest and experience the model’s predictions and improvements. This approach creates simultaneous usage and development and can potentially advance more personalized and transparent AI systems for non-expert users in AI, either for pedagogy or in niche domains (e.g., science, medecine, arts).
