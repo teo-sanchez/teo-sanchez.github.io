@@ -156,6 +156,11 @@
 - title: 🏆 Honors and Awards
   type: time_table
   contents:
+    - title: "Honorable mention"
+      short_cv: true
+      subject: "Examining the Text-to-Image Community of Practice: Why and How do People Prompt Generative AIs?"
+      institution: 15th Annual Conference on Creativity & Cognition
+      year: 2023
     - title: Best thesis award
       short_cv: true
       subject: "Interactive Machine Teaching for and with novices"

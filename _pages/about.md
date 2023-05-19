@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher specializing in human-AI interaction. I earned m Ph.D. as a member of the [ExSitu](https://ex-situ.lri.fr/) research team in [LISN](https://www.lisn.upsaclay.fr/), and the [HCI](https://hci.isir.upmc.fr/) team in [ISIR](https://www.isir.upmc.fr/).
+I am a postdoctoral researcher specializing in human-AI interaction. I earned my Ph.D. as a member of the [ExSitu](https://ex-situ.lri.fr/) research team in [LISN](https://www.lisn.upsaclay.fr/), and the [HCI](https://hci.isir.upmc.fr/) team in [ISIR](https://www.isir.upmc.fr/).
 
 My primary focus is on understanding how people comprehend and interact with AI systems, alongside designing meaningful and effective interactions with machine learning algorithms.
 
