@@ -3,7 +3,7 @@ layout: page
 title: 'How do people teach a machine? Strategies and (mis)understandings'
 description: Presentation of our paper at CSCW21
 img: /assets/img/teach_cscw21/caption.gif
-importance: 1
+importance: 2
 category: science
 show: true
 ---

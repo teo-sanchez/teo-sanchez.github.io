@@ -3,7 +3,7 @@ layout: page
 title: 'Deep learning uncertainty in interactive machine teaching'
 description: Presentation of our paper at IUI 2022
 img: /assets/img/teach_iui22/caption.gif
-importance: 0
+importance: 1
 category: science
 show: true
 ---

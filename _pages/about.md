@@ -9,7 +9,7 @@ profile:
   image: teo-sanchez-profile-pic.jpeg
   image_circular: false # crops the image to make it circular
   address: |
-    I'm open for post-doc opportunities in Germany! 🇩🇪
+    teo [dot] sanchez [at] hm [dot] edu
 
 
 news: true  # includes a list of news items
