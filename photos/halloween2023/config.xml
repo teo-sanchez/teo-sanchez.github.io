@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useLargeImages="true"
+	galleryTitle="Halloween 2023"
+	useFullscreenExpand="true"
+	galleryDescription="Halloween 2023 in Munich"
+	galleryFontFace="Halloween 2023 in Munich"
+	splashTitle="Halloween 2023"
+	splashImageUrl="images/large/000.jpeg"
+	showSplashPage="ALWAYS"
+	audioUrlMp3="audio.mp3"
+	captionPosition="NONE"
+	buttonBarHAlign="LEFT"
+	imageTransitionType="SLIDE"
+	autohideThumbs="true"
+	showThumbsOnLoad="false"
+	showSmallThumbsOnLoad="false"
+	showSmallThumbsButton="false"
+	thumbsVAlign="BOTTOM"
+	thumbsHAlign="CENTER"
+	enableAutoPlay="true"
+	autoPlayOnLoad="true"
+	displayTime="3"
+	screenMode="LARGE"
+	expandInNewPage="TRUE"
+	galleryTitlePosition="NONE"
+	playAudioOnLoad="true"
+	showAudioButton="true"
+	showDownloadButton="true"
+
+>
+  <image imageURL="images/000.jpeg"
+	thumbURL="thumbs/000.jpeg"
+	linkURL="images/large/000.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/000.jpeg"
+	largeImageURL="images/large/000.jpeg">
+    <title><![CDATA[000]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/001.jpeg"
+	thumbURL="thumbs/001.jpeg"
+	linkURL="images/large/001.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/001.jpeg"
+	largeImageURL="images/large/001.jpeg">
+    <title><![CDATA[001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/002.jpeg"
+	thumbURL="thumbs/002.jpeg"
+	linkURL="images/large/002.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/002.jpeg"
+	largeImageURL="images/large/002.jpeg">
+    <title><![CDATA[002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/003.jpeg"
+	thumbURL="thumbs/003.jpeg"
+	linkURL="images/large/003.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/003.jpeg"
+	largeImageURL="images/large/003.jpeg">
+    <title><![CDATA[003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/003a.jpeg"
+	thumbURL="thumbs/003a.jpeg"
+	linkURL="images/large/003a.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/003a.jpeg"
+	largeImageURL="images/large/003a.jpeg">
+    <title><![CDATA[003a]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/004.jpeg"
+	thumbURL="thumbs/004.jpeg"
+	linkURL="images/large/004.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/004.jpeg"
+	largeImageURL="images/large/004.jpeg">
+    <title><![CDATA[004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/005.jpeg"
+	thumbURL="thumbs/005.jpeg"
+	linkURL="images/large/005.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/005.jpeg"
+	largeImageURL="images/large/005.jpeg">
+    <title><![CDATA[005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/005a.jpeg"
+	thumbURL="thumbs/005a.jpeg"
+	linkURL="images/large/005a.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/005a.jpeg"
+	largeImageURL="images/large/005a.jpeg">
+    <title><![CDATA[005a]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/006.jpeg"
+	thumbURL="thumbs/006.jpeg"
+	linkURL="images/large/006.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/006.jpeg"
+	largeImageURL="images/large/006.jpeg">
+    <title><![CDATA[006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/007.jpeg"
+	thumbURL="thumbs/007.jpeg"
+	linkURL="images/large/007.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/007.jpeg"
+	largeImageURL="images/large/007.jpeg">
+    <title><![CDATA[007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/008.jpeg"
+	thumbURL="thumbs/008.jpeg"
+	linkURL="images/large/008.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/008.jpeg"
+	largeImageURL="images/large/008.jpeg">
+    <title><![CDATA[008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/009.jpeg"
+	thumbURL="thumbs/009.jpeg"
+	linkURL="images/large/009.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/009.jpeg"
+	largeImageURL="images/large/009.jpeg">
+    <title><![CDATA[009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/010.jpeg"
+	thumbURL="thumbs/010.jpeg"
+	linkURL="images/large/010.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/010.jpeg"
+	largeImageURL="images/large/010.jpeg">
+    <title><![CDATA[010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/011.jpeg"
+	thumbURL="thumbs/011.jpeg"
+	linkURL="images/large/011.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/011.jpeg"
+	largeImageURL="images/large/011.jpeg">
+    <title><![CDATA[011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/012.jpeg"
+	thumbURL="thumbs/012.jpeg"
+	linkURL="images/large/012.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/012.jpeg"
+	largeImageURL="images/large/012.jpeg">
+    <title><![CDATA[012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/013.jpeg"
+	thumbURL="thumbs/013.jpeg"
+	linkURL="images/large/013.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/013.jpeg"
+	largeImageURL="images/large/013.jpeg">
+    <title><![CDATA[013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/014.jpeg"
+	thumbURL="thumbs/014.jpeg"
+	linkURL="images/large/014.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/014.jpeg"
+	largeImageURL="images/large/014.jpeg">
+    <title><![CDATA[014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/015.jpeg"
+	thumbURL="thumbs/015.jpeg"
+	linkURL="images/large/015.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/015.jpeg"
+	largeImageURL="images/large/015.jpeg">
+    <title><![CDATA[015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/016.jpeg"
+	thumbURL="thumbs/016.jpeg"
+	linkURL="images/large/016.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/016.jpeg"
+	largeImageURL="images/large/016.jpeg">
+    <title><![CDATA[016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/017.jpeg"
+	thumbURL="thumbs/017.jpeg"
+	linkURL="images/large/017.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/017.jpeg"
+	largeImageURL="images/large/017.jpeg">
+    <title><![CDATA[017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/018.jpeg"
+	thumbURL="thumbs/018.jpeg"
+	linkURL="images/large/018.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/018.jpeg"
+	largeImageURL="images/large/018.jpeg">
+    <title><![CDATA[018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/019.jpeg"
+	thumbURL="thumbs/019.jpeg"
+	linkURL="images/large/019.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/019.jpeg"
+	largeImageURL="images/large/019.jpeg">
+    <title><![CDATA[019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/030.jpeg"
+	thumbURL="thumbs/030.jpeg"
+	linkURL="images/large/030.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/030.jpeg"
+	largeImageURL="images/large/030.jpeg">
+    <title><![CDATA[030]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/031.jpeg"
+	thumbURL="thumbs/031.jpeg"
+	linkURL="images/large/031.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/031.jpeg"
+	largeImageURL="images/large/031.jpeg">
+    <title><![CDATA[031]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/032.jpeg"
+	thumbURL="thumbs/032.jpeg"
+	linkURL="images/large/032.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/032.jpeg"
+	largeImageURL="images/large/032.jpeg">
+    <title><![CDATA[032]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/033.jpeg"
+	thumbURL="thumbs/033.jpeg"
+	linkURL="images/large/033.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/teosanchez/Pictures/halloween2023/033.jpeg"
+	largeImageURL="images/large/033.jpeg">
+    <title><![CDATA[033]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
