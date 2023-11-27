@@ -242,7 +242,7 @@ assets:
     js: terser
 
 jekyll-minifier:
-  exclude: ['demos/activite-ia/assets/vendor.e33fb0e0.js', 'demos/introsciencedonnees/assets/vendor.1c00007a.js', 'demos/cvbe/assets/main-4d094c2b.js']
+  exclude: ['demos/activite-ia/assets/vendor.e33fb0e0.js', 'demos/introsciencedonnees/assets/vendor.1c00007a.js', 'demos/vision/assets/main-4d094c2b.js']
   uglifier_args:
     harmony: true
   
