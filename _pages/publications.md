@@ -4,7 +4,7 @@ permalink: /publications/
 title: "publications"
 page_title: "Publications 📄"
 description: Publications in reverse chronological orders
-years: [2022, 2021, 2020, 2014]
+years: [2024, 2023, 2022, 2021, 2020, 2014]
 nav: true
 nav_order: 1
 ---
