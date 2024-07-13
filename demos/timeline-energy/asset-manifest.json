@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.b88f084c.css",
-    "main.js": "/static/js/main.ccca1cc5.js",
-    "index.html": "/index.html",
-    "main.b88f084c.css.map": "/static/css/main.b88f084c.css.map",
-    "main.ccca1cc5.js.map": "/static/js/main.ccca1cc5.js.map"
+    "main.css": "/demos/timeline-energy/static/css/main.b88f084c.css",
+    "main.js": "/demos/timeline-energy/static/js/main.ccca1cc5.js",
+    "index.html": "/demos/timeline-energy/index.html",
+    "main.b88f084c.css.map": "/demos/timeline-energy/static/css/main.b88f084c.css.map",
+    "main.ccca1cc5.js.map": "/demos/timeline-energy/static/js/main.ccca1cc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b88f084c.css",
-    "static/js/main.ccca1cc5.js"
+    "/demos/timeline-energy/static/css/main.b88f084c.css",
+    "/demos/timeline-energy/static/js/main.ccca1cc5.js"
   ]
 }
