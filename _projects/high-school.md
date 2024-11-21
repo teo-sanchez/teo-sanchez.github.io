@@ -13,7 +13,7 @@ authors:
 
 
 bibliography: summer-school.bib
-show: true
+show: false
 ---
 
 ## Context

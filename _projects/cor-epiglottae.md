@@ -6,6 +6,7 @@ img: /assets/img/cor-epiglottae/cor_epiglottae.gif
 show: true
 importance: 1
 category: art
+show: false
 ---
 
 From the 22th to the 27th of August 2021, I participated to the Inria [Creartathon](https://creartathon.com/), a hackathon combining art and science "where multi-disciplinary teams of five students collaborate on the design of an intelligent interactive object".

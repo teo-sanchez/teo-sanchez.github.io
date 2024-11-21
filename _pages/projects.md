@@ -4,10 +4,11 @@ title: projects
 page_title: "Projects 🌱"
 permalink: /projects/
 description: Archive of my past and current projects
-nav: true
+nav: false
 nav_order: 2
 display_categories: [science, art]
 horizontal: true
+show: false
 ---
 
 <div class="projects">

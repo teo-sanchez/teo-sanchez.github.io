@@ -13,6 +13,7 @@ authors:
 
 
 bibliography: summer-school.bib
+show: false
 ---
 
 During summer 2019, I had the chance to participate to the 5th edition of the summer school on Computational Interaction, in [Columbia University](https://www.columbia.edu/), New-York.
