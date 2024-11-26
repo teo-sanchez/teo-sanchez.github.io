@@ -4,7 +4,7 @@ title: Introduction to data bases
 description: Theory and applications of data base concepts, data bases models, relational algebra, normal forms and SQL.
 # img: /assets/img/teaching/computer_science.jpg
 importance: 0
-category: Licence 2
+category: Bachelor
 manager: Nicole Bidoit
 year: 2022
 webpage: https://ecampus.paris-saclay.fr/course/view.php?id=66414

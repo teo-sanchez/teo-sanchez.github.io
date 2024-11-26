@@ -3,9 +3,9 @@ layout: page
 title: teaching
 page_title: "Teaching 💼"
 permalink: /teaching/
-description: Archive of the classes I was involved in as as teaching assistant. I completed <b>392</b> hours of teaching in Université Paris-Saclay so far.
+description: Archive of the classes I was involved in as as teaching assistant. I completed <b>392</b> hours of teaching in Université Paris-Saclay, and I co-designed and taught three courses from the interdisciplinary teaching project on AI in Culture and Arts, between Hochschule München University of Applied Sciences and the Hochschule für Musik und Theater München.
 nav: true
-display_categories: [Licence 1, Licence 2, Licence 3, Master 1]
+display_categories: [Master, Interdisciplinary, Bachelor]
 horizontal: true
 nav_order: 3
 ---

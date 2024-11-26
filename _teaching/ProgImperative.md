@@ -4,7 +4,7 @@ title: Introduction to Imperative Programming
 description: Introduction to programming in C++
 # img: /assets/img/teaching/laby.png
 importance: 1
-category: Licence 1
+category: Bachelor
 manager: Nicolas Thiéry
 website: https://nicolas.thiery.name/Enseignement/Info111/
 year: 2018, 2019, 2020, 2021
