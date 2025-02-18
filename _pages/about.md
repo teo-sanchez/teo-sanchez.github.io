@@ -12,12 +12,12 @@ profile:
     Photo by Tanja Huber <br>
     <b>teo [dot] sanchez [at] hm [dot] edu</b>
 
-news: true  # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher specializing in human-AI interaction at the [Munich Center for Digital Sciences and AI](https://mucdai.hm.edu/index.de.html), at [Hochschule München University of Applied Sciences](https://hm.edu/). Starting january 2025, I will be a [Marie-Skłodowska Curie (MSCA) fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2023) at the [Munich Interactive Intelligence Initiative (MI3)](https://mi3.info/) at [LMU](https://www.lmu.de/), university of Munich, working with Prof. Ophelia Deroy. My project will investigate *How does human agency shape machine learning understanding?*
+I am a postdoctoral researcher specializing in human-AI interaction. I am a [Marie-Skłodowska Curie (MSCA) fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2023) at the [Munich Interactive Intelligence Initiative (MI3)](https://mi3.info/) at [LMU](https://www.lmu.de/), university of Munich, working with Prof. Ophelia Deroy. My project will investigate _How does human agency shape machine learning understanding?_
 
 My primary research focus is on understanding how people comprehend and can interact with AI systems. I am interested in designing both inclusive and reflective interactions with machine learning systems.
 
