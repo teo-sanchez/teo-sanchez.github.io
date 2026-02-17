@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: |
     Photo by Tanja Huber <br>
-    <b>teo [dot] sanchez [at] hm [dot] edu</b>
+    <b>teo [dot] sanchez [at] lmu [dot] de</b>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

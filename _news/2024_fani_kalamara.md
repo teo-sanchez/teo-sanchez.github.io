@@ -7,3 +7,5 @@ show: true
 ---
 
 I will welcome Fani Kalamara, master student in HCI at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/) for an intensive research stay at MUC.DAI, Hochschule München Universsity of Applied Sciences. We will be working on our research project investigating user testing strategies in machine learning auditing.
+
+

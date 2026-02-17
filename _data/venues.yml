@@ -17,3 +17,11 @@
 "Paris-Saclay":
   url: https://www.universite-paris-saclay.fr/
   color: "#5D012E"
+
+"AlpCHI":
+  url: https://alpchi.org/
+  color: "#542000"
+
+"CHI":
+  url: https://chi2026.acm.org/
+  color: "#d40000"
